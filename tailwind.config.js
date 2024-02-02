@@ -14,6 +14,7 @@ export default {
       },
       margin: {
         '10tl' : '75px 55px 0px 610px',
+        '11tl' : '150px 0px 0px 700px',
       },
       dropShadow: {
         'dx10' : '1px 1px 1px #000',

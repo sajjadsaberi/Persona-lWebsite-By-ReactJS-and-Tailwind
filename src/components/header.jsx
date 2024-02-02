@@ -6,6 +6,7 @@ function Headers() {
         <> 
     <header>
         <p className='absolute font-Iran text-5xl text-white font-bold m-10tl drop-shadow-dx10'>مهندس سجاد صابری</p>
+        <p className='absolute font-Iran text-base text-white font-bold m-11tl drop-shadow-dx10'>طراح و توسعه دهنده فرانت اند و طراح رابط کاربری</p>
         <img src='./src/images/Header.jpg' alt='Header' className='h-72 w-10xl'/>
     </header>
     <nav className='bg-gray-900 flex items-center justify-between gap-96 shadow-5xxl'>
