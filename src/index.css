@@ -10,6 +10,11 @@
 
   }
 
+  .box {
+    width: 450px;
+  }
+
+
 }
 
 ::selection {

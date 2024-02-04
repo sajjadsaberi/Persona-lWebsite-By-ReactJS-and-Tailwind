@@ -5,6 +5,12 @@ function Headers() {
     return (
         <> 
     <header>
+    <div className='box h-auto mt-5 ml-5 flex justify-center items-center gap-6 flex-wrap flex-row absolute'>
+            <span className='w-40 h-28 bg-amber-500'></span>
+            <span className='w-40 h-28 bg-amber-500'></span>
+            <span className='w-40 h-28 bg-amber-500'></span>
+            <span className='w-40 h-28 bg-amber-500'></span>
+        </div>
         <p className='absolute font-Iran text-5xl text-white font-bold m-10tl drop-shadow-dx10'>مهندس سجاد صابری</p>
         <p className='absolute font-Iran text-base text-white font-bold m-11tl drop-shadow-dx10'>طراح و توسعه دهنده فرانت اند و طراح رابط کاربری</p>
         <img src='./src/images/Header.jpg' alt='Header' className='h-72 w-10xl'/>
