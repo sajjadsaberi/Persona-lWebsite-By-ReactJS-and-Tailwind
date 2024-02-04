@@ -9,6 +9,9 @@ export default {
       boxShadow: {
         '5xxl': '1px 2px 4px #333',
       },
+      boxShadow: {
+        '8xxl': '3px 3px 4px #111',
+      },
       width: {
         '10xl' : '1100px',
       },
