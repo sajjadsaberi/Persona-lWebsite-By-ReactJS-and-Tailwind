@@ -4,6 +4,18 @@ import './header.module.css'
 function Headers() {
     return (
         <> 
+    <div className='flex items-center justify-start h-12'>
+        <div className='flex flex-row justify-center items-center gap-3'>
+            <a href='#'><img src='./src/images/instagram.png' width='32px' height='32px' alt="instagram" /></a>
+            <a href='#'><img src='./src/images/youtube.png' width='32px' height='32px' alt="youtube" /></a>
+            <a href='#'><img src='./src/images/telegram.png' width='32px' height='32px' alt="telegram" /></a>
+            <a href='#'><img src='./src/images/fb-messenger.png' width='32px' height='32px' alt="facebook" /></a>
+            <a href='#'><img src='./src/images/whatsapp.png' width='32px' height='32px' alt="whatsapp" /></a>
+        </div>
+        <div className=''>
+
+        </div>
+    </div>
     <header>
     <div className='box h-auto mt-5 ml-5 flex justify-center items-center gap-6 flex-wrap flex-row absolute'>
             <span className='w-40 h-28 bg-slate-100 border-2 border-gray-300 shadow-8xxl pt-9'><a href='#' className='font-Iran text-2xl text-neutral-800 font-normal'>صفحه اصلی</a></span>
