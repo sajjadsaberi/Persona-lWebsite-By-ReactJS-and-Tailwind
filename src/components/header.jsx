@@ -4,7 +4,7 @@ import './header.module.css'
 function Headers() {
     return (
         <> 
-    <div className='flex items-center justify-start h-12'>
+    <div className='flex items-center justify-between h-12'>
         <div className='flex flex-row justify-center items-center gap-3'>
             <a href='#'><img src='./src/images/instagram.png' width='32px' height='32px' alt="instagram" /></a>
             <a href='#'><img src='./src/images/youtube.png' width='32px' height='32px' alt="youtube" /></a>
@@ -12,8 +12,8 @@ function Headers() {
             <a href='#'><img src='./src/images/fb-messenger.png' width='32px' height='32px' alt="facebook" /></a>
             <a href='#'><img src='./src/images/whatsapp.png' width='32px' height='32px' alt="whatsapp" /></a>
         </div>
-        <div className=''>
-
+        <div className='font-Iran rtl text-zinc-900'>
+            <p><a href='#' className='pt-1.5 pr-3 pb-2 pl-3 rounded-md text-white bg-red-500 hover:text-zinc-100'>ثبت نام / ورود به سایت</a></p>
         </div>
     </div>
     <header>
