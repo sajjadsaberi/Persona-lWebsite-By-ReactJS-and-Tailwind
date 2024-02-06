@@ -15,8 +15,12 @@ export default {
       boxShadow: {
         '6xxl': '0px 0px 4px #333',
       },
+      boxShadow: {
+        '11xxxl' : '0px 0px 3px #999',
+      },
       width: {
         '10xl' : '1100px',
+        '550xl' : '550px',
       },
       margin: {
         '10tl' : '75px 55px 0px 610px',
