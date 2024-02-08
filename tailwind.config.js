@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     extend: {
+      content: {
+        'link': 'url("./src/images/arrow1.png")',
+      },
       boxShadow: {
         '5xxl': '1px 2px 4px #333',
       },
