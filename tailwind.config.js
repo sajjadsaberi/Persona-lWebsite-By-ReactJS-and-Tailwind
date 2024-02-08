@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       content: {
-        'link': 'url("./src/images/arrow1.png")',
+        'link': 'url("./src/images/arrow.png")',
       },
       boxShadow: {
         '5xxl': '1px 2px 4px #333',
@@ -24,6 +24,9 @@ export default {
       width: {
         '10xl' : '1100px',
         '550xl' : '550px',
+      },
+      height: {
+        '426xl' : '426px',
       },
       margin: {
         '10tl' : '75px 55px 0px 610px',
