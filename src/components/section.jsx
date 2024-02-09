@@ -7,7 +7,7 @@ function Sections() {
         <main className='flex justify-between items-center mt-6'>
             <div className='bg-slate-200 w-60 h-auto rounded-md shadow-11xxxl pb-5'>
                 <p className=' bg-stone-800 text-white h-12 pt-3 rounded-t-md rounded-b-none font-Iran'>فهرست ها</p>
-                <div className='font-Iran flex justify-end items-center w-auto h-auto mt-5 mr-8'>
+                <div className='font-Iran flex justify-end items-center w-auto h-auto mt-5 mr-10'>
                     <ul>
                         <li>
                             <a href='#' className="relative after:content-link after:absolute after:w-3 after:h-3 after:mt-1 after:ml-1">سر عنوان</a>
