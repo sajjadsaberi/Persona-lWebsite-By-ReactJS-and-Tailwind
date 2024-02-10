@@ -7,27 +7,25 @@ function Footers() {
         <footer className='flex justify-between items-center flex-row w-full h-auto bg-gray-900 mt-9 p-6 font-Iran text-white rtl'>
             <div className='w-40'>
                 <a href="#">لینک های مرتبط</a>
-                <ul>
-                    <li>سایت های شخصی</li>
-                    <li>سایت های شخصی</li>
-                    <li>سایت های شخصی</li>
-                    <li>سایت های شخصی</li>
-                    <li>سایت های شخصی</li>
+                <ul className='mt-3.5'>
+                    <li className='pt-1.5'>سایت های شخصی</li>
+                    <li className='pt-1.5'>سایت های شخصی</li>
+                    <li className='pt-1.5'>سایت های شخصی</li>
+                    <li className='pt-1.5'>سایت های شخصی</li>
                 </ul>
             </div>
             <div className='w-40'>
                 <a href='#'>فهرست سایت</a>
-                <ul>
-                    <li>لینک های ویژه</li>
-                    <li>لینک های ویژه</li>
-                    <li>لینک های ویژه</li>
-                    <li>لینک های ویژه</li>
-                    <li>لینک های ویژه</li>
+                <ul className='mt-3.5'>
+                    <li className='pt-1.5'>لینک های ویژه</li>
+                    <li className='pt-1.5'>لینک های ویژه</li>
+                    <li className='pt-1.5'>لینک های ویژه</li>
+                    <li className='pt-1.5'>لینک های ویژه</li>
                 </ul>
             </div>
-            <div className='w-350xl'>
+            <div className='w-350xl h-40'>
                 <a href='#'>درباره ما</a>
-                <p className='text-justify'>
+                <p className='text-justify mt-5 leading-9'>
                     در این قسمت یک متن کوتاه در خصوص نحوه راه اندازی این وبسایت و بیوگرافی شخصی سجاد صابری قرار داده می شود و کاربر می توان از طریق آن با با ما آشنا شود.
                 </p>
             </div>
