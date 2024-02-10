@@ -4,7 +4,34 @@ import './footer.module.css';
 function Footers() {
     return (
         <> 
-        <p className='font-Iran text-xl mt-8'>طراحی و راه اندازی شده توسط سجاد صابری</p>
+        <footer className='flex justify-between items-center flex-row-reverse w-full h-auto bg-gray-900 mt-9'>
+            <div>
+                <a href="#">لینک های مرتبط</a>
+                <ul>
+                    <li>سایت های شخصی</li>
+                    <li>سایت های شخصی</li>
+                    <li>سایت های شخصی</li>
+                    <li>سایت های شخصی</li>
+                    <li>سایت های شخصی</li>
+                </ul>
+            </div>
+            <div>
+                <a href='#'>فهرست سایت</a>
+                <ul>
+                    <li>لینک های ویژه</li>
+                    <li>لینک های ویژه</li>
+                    <li>لینک های ویژه</li>
+                    <li>لینک های ویژه</li>
+                    <li>لینک های ویژه</li>
+                </ul>
+            </div>
+            <div>
+                <a href='#'>درباره ما</a>
+                <p>
+                    در این قسمت یک متن کوتاه در خصوص نحوه راه اندازی این وبسایت و بیوگرافی شخصی سجاد صابری قرار داده می شود و کاربر می توان از طریق آن با با ما آشنا شود.
+                </p>
+            </div>
+        </footer>
         </>
     )
 }
