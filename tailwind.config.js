@@ -24,6 +24,7 @@ export default {
       width: {
         '10xl' : '1100px',
         '550xl' : '550px',
+        '350xl' : '400px',
       },
       height: {
         '426xl' : '426px',
