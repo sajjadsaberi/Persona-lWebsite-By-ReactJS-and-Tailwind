@@ -36,6 +36,9 @@ export default {
       dropShadow: {
         'dx10' : '1px 1px 1px #000',
       },
+      listStyleType: {
+        'listType' : 'url("./src/images/arrow1.png")',
+      }
     },
     fontFamily: {
         'Iran': ['IranYekanX']
