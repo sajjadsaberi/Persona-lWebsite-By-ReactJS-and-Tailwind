@@ -38,6 +38,12 @@ function Sections() {
             </div>
             <div className='bg-slate-200 w-550xl h-426xl rounded-md shadow-11xxxl'>
                 <p className=' bg-stone-800 text-white h-12 pt-3 rounded-t-md rounded-b-none font-Iran'>عنوان پست های انتشار داده شده در وبسایت</p>
+                <div className='flex flex-row gap-4 font-Iran text-12pxl font-light justify-between items-center px-5 py-1.5 m-310pxl bg-slate-300 rounded-b-md'>
+                <button>ادامه مطلب</button>
+                    <a href='#' className='text-stone-800'>نویسنده : سجاد صابری</a>
+                    <a href='#' className='text-stone-800'>تاریخ انتشار : 1402/07/25</a>
+                    <a href="#" className='text-stone-800'>تعداد نظرات</a>
+                </div>
             </div>
             <div className=' bg-slate-200 w-60 h-426xl rounded-md shadow-11xxxl'>
                 <p className=' bg-stone-800 text-white h-12 pt-3 rounded-t-md rounded-b-none font-Iran'>برترین ها</p>

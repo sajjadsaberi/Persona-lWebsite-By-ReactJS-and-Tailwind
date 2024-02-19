@@ -30,7 +30,7 @@ function Footers() {
                 </p>
             </div>
         </footer>
-        <p className='mt-3 text-base text-red-400'>
+        <p className='mt-3 text-base text-gray-700'>
         Copy Right © 2023 - 2024 TermsFeed®. All rights reserved to Sajjad Saberi. 
         </p>
         </>

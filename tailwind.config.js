@@ -32,12 +32,16 @@ export default {
       margin: {
         '10tl' : '75px 55px 0px 610px',
         '11tl' : '150px 0px 0px 700px',
+        '310pxl': '332px 0px 0px 0px',
       },
       dropShadow: {
         'dx10' : '1px 1px 1px #000',
       },
+      fontSize: {
+        '12pxl' : '12px',
+      },
       listStyleType: {
-        'listType' : 'url("./src/images/arrow1.png")',
+        'lists' : 'url("./src/images/arrow1.png")',
       }
     },
     fontFamily: {
