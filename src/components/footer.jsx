@@ -8,10 +8,10 @@ function Footers() {
             <div className='w-40'>
                 <a href="#" className='text-yellow-400 border-b-2 border-white pb-2.5 drop-shadow-dx10'>لینک های مرتبط</a>
                 <ul className="list-disc rtl list-inside mt-3">
-                    <li className='pt-1.5'>سایت های شخصی</li>
-                    <li className='pt-1.5'>سایت های شخصی</li>
-                    <li className='pt-1.5'>سایت های شخصی</li>
-                    <li className='pt-1.5'>سایت های شخصی</li>
+                    <li className='pt-1.5'><a href="#" className='text-white hover:text-slate-500'>سایت های شخصی</a></li>
+                    <li className='pt-1.5'><a href="#" className='text-white hover:text-slate-500'>سایت های شخصی</a></li>
+                    <li className='pt-1.5'><a href="#" className='text-white hover:text-slate-500'>سایت های شخصی</a></li>
+                    <li className='pt-1.5'><a href="#" className='text-white hover:text-slate-500'>سایت های شخصی</a></li>
                 </ul>
             </div>
             <div className='w-40'>
