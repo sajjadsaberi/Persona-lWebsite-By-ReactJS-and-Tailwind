@@ -2,6 +2,9 @@ import {React} from 'react'
 import './header.module.css'
 
 const me = () => {
+    const results = true ;
+    const container = 1 ;
+    console.log(results + null + container) ;
     
 };
 
